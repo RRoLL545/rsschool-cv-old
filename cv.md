@@ -30,6 +30,7 @@ I'm self-studying HTML, CSS, JavaScript //Books, web-resources
 
 1. Code examples
 Some code examples:
+	* [Failed test to EPAM training courses](https://drive.google.com/open?id=1LaQvTezsqm1Hj66EVWNswCLB7MKC_sIz)
     * Game "WORDS"
 ```javascript
             //Проверка корректности слова
@@ -48,7 +49,8 @@ Some code examples:
                 document.getElementById('help-error').innerHTML = errorReport;
             }
 ```
-    * [Failed test to EPAM training courses](https://drive.google.com/file/d/1LaQvTezsqm1Hj66EVWNswCLB7MKC_sIz/view?usp=sharing) //after some time passed, I was able to complete the task :)
+     
+    
 
 1. Experience
 I worked (not officially) in "BRIGHT MOBILE" as a developer for few months. One example you can find in next hyper-link:
