@@ -1,6 +1,6 @@
 # Junior Developer Resume
 
-1. Roman Bykov
+1. Roman BYKOV
 
 1. Contact Information:
 	* mob.phone: +7 917 133 22 90;
@@ -26,9 +26,11 @@
         * As I see EPAM is that sort of company where I can find what is described in previous point. My goal now is to pass to next training stage and at the end of the training get invitation to EPAM. And will do my best!
 
 1. Skills
+
 I'm self-studying HTML, CSS, JavaScript //Books, web-resources
 
 1. Code examples
+
 Some code examples:
 	* [Failed test to EPAM training courses](https://drive.google.com/open?id=1LaQvTezsqm1Hj66EVWNswCLB7MKC_sIz)
     * Game "WORDS"
@@ -53,6 +55,7 @@ Some code examples:
     
 
 1. Experience
+
 I worked (not officially) in "BRIGHT MOBILE" as a developer for few months. One example you can find in next hyper-link:
 	* [Online building store](https://drive.google.com/open?id=1KNw9U1ttuM2v7lFj31uacNmmMh0V1B1r)
 
@@ -61,4 +64,5 @@ I worked (not officially) in "BRIGHT MOBILE" as a developer for few months. One 
 	* Applied informatics //Togliatty state university 2020
 
 1. English
-Use English in my work since 2011. Reading, writing, phone call, meetings and so on
+
+Use English in my work since 2011. Reading, writing, phone call, meetings and so on.
