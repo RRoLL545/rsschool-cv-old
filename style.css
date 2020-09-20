@@ -24,6 +24,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+<<<<<<< HEAD
 body {
 	line-height: 1;
 }
@@ -89,3 +90,76 @@ a:before a:after {
 	font-style: italic;
 	font-weight: bold;
 }
+=======
+body {
+
+    width: 1024px;
+    margin: 0 auto;
+}
+
+	line-height: 1;
+}
+/*ol, ul {
+	list-style: none;
+}*/
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/*Основные стили*/
+html {
+	background-color: grey;
+}
+body {
+    max-width: 982px;
+	margin: 0 auto;
+	background-color: beige;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 40px;
+}
+
+h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+img:hover {
+	cursor: pointer;
+}
+
+img {
+	margin: 0 20px 0 0;
+}
+
+a:before a:after {
+	color: black;
+}
+
+.code {
+	background-color: blanchedalmond;
+	max-width: 500px;
+}
+
+.main-list {
+	font-style: italic;
+	font-weight: bold;
+}
+
+>>>>>>> 18c1380de1e388ea588e50c0ed1b2e90d3c8067a
